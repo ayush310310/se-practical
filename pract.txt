@@ -1,0 +1,4 @@
+SCM 
+This project demonstrates
+Software Configuration Management.
+Version: 1.0
